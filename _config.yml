@@ -10,7 +10,7 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Lloyd Sheng
+title : Lloyd Sheng - 开发备忘录
 tagline: iOS开发备忘录
 author :
   name : Lloyd Sheng
@@ -74,7 +74,6 @@ JB :
   archive_path: /archive/
   categories_path : /categories/
   tags_path : /tags/
-
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
