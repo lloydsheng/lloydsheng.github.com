@@ -19,7 +19,7 @@ tagline: Supporting tagline
           <ul>
             <li>标签:</li>
           {% for tag in post.tags %}
-            <li><a href="{{ JB.tag_path }}#">{{ tag | capitalize }}</a></li>
+            <li><a href="/tags/#{{ tag | capitalize }}-ref">{{ tag | capitalize }}</a></li>
           {% endfor %}
           </ul>
         </section>
