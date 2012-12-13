@@ -32,7 +32,9 @@ tags: iOS兼容性
 Error Domain=ALAssetsLibraryErrorDomain Code=-3300 "Write failed" UserInfo=0xdfb4b80 {NSLocalizedFailureReason=There was a problem writing this asset because the write failed., NSUnderlyingError=0xdfc8960 "The operation couldn’t be completed. (PersistentURLTranslator error 13.)", NSLocalizedDescription=Write failed}
 ~~~~
 
-###总结####
+总结
+---
+
 开始收到反馈时候，怀疑是用户容量满了，或者图片有问题。怎么也不会怀疑和定位服务有关，苹果这个api权限要求也不合理，新建相册为什么一定要用定位服务，相册的地理信息不能为空吗？可能苹果后来也觉得没有必要，才在iOS6取消了这个限制。
 
 {% include JB/setup %}
