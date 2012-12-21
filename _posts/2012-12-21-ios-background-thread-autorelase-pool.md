@@ -3,7 +3,7 @@ layout: post
 title: "iOS4.3下后台线程执行autolease警告"
 description: ""
 category: 
-tags: [autorelase iOS]
+tags: autorelase iOS
 ---
 {% include JB/setup %}
 
