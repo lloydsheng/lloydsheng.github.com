@@ -53,6 +53,6 @@ Debug发现是在一段清理缓存的代码导致的，这段每次调用autole
 }
 ~~~~
 
-###相关参考####
+#####相关参考######
 * [https://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/MemoryMgmt/Articles/mmAutoreleasePools.html](https://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/MemoryMgmt/Articles/mmAutoreleasePools.html)
 * [http://stackoverflow.com/questions/4313122/nsautoreleasenopool-object-0x753c2f0-of-class-general-autoreleased-with-no](http://stackoverflow.com/questions/4313122/nsautoreleasenopool-object-0x753c2f0-of-class-general-autoreleased-with-no)
