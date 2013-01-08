@@ -547,3 +547,13 @@ img.maruku-png { }
 	color:#FFF;
 }
 
+
+/* custom */
+p img {
+    padding: 5px;
+    background: white;
+    border: 1px solid #BBB;
+    margin: 5px 7px 7px 0;
+    vertical-align: top;
+    max-width: 39em;
+}
